@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Matrix:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Matrix_jar</output-path>
+    <root id="archive" name="Matrix.jar">
+      <element id="module-output" name="Matrix" />
+    </root>
+  </artifact>
+</component>
